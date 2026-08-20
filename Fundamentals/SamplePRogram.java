@@ -1,6 +1,5 @@
 package Fundamentals;
 
-import java.lang.*;
 
 /**
  * SamplePRogram
