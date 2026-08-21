@@ -16,6 +16,10 @@ public class SwitchExpression {
 
 
 
+        IO.println("Ahoy\u0000");
+
+
+
     }
 
     public String findSeason(int month){
